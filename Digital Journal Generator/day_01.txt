@@ -1,6 +1,0 @@
-SHADOW LOG - DAY 1
-Name: Santhosh
-Daily Goal: Master Python Basics
-Time Spent: 2 hrs
-Today's Win: Built my first script
-One Challenge: Understanding loops deeply
