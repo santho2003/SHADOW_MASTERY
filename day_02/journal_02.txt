@@ -1,0 +1,12 @@
+What logic was most confusing today?
+Where did I feel flow?
+Did my tools reflect mastery or mess?
+How would a founder use these tools?
+
+
+1. I was little confused with min to hours conv and multiplying with percentages. 
+Also with the print format {minutes}
+2. I felt the flow in the timer function also control flow in the tracker function
+3. My tools reflect not absolute mastery still in the basics 
+4. A founder may directly track his productivity juz by their hours spent and a timer function to deal 
+with their focus mode

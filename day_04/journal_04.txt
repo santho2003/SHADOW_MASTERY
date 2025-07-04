@@ -1,0 +1,9 @@
+How did dictionaries change my way of thinking today?
+Did I build a tool I would personally use?
+Can I imagine a bigger system that could evolve from this?
+
+1. With dictionaries i can map and store data of any type.
+also Unique keys
+2. Yeah i built a contact manager where i can save and view and contacts safe without ambiguity
+3. yeah of course the request responses in web pages uses JSON type which i learned to dump today.
+the contact manager can be evolved into a real time system

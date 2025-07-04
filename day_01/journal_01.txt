@@ -1,0 +1,4 @@
+1. I built a Digital journal generator and my startup timer
+2. I struggled with using time and datetime. File formatting. No use of symbols.
+3. I created a Journal Generator of my own and revised the files in python
+4. I will improve the logical thinking speed. Learn one new thing tmrw

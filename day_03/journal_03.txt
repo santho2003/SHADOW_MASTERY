@@ -1,0 +1,10 @@
+What did my code “understand” today?
+How does this help me think like a founder?
+What’s the most elegant solution I wrote?
+What system could I automate using lists?
+
+1. I understood the indexing using enumerate.
+Using methods in lists. Matplot for bar chart
+2. Log tasks and their completion status. Focus Analyzing system using graph visualization
+3. Using methods(sum, min, max) and using emoji than creating a separate list for completed tasks
+4. Using lists i could automate the focus and track daily tasks
