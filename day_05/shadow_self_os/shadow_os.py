@@ -1,19 +1,7 @@
 import pprint as p
-import json
+from utils.scoring import scoring
+from utils.save_json import save_json
 
-# scoring
-def scoring(data):
-
-    data["exercise"] = data["exercise"] / 60
-    data["study"] = data["study"] / 60
-    prod_score = 0
-    prod_score += 60 if data["sleep"] >= 6 else 10 * data["sleep"]
-    prod_score += 10 if data["coding"] >= 1 else 10 * data["coding"]
-    prod_score += 20 if data["exercise"] >= 0.5 else 20 * data["exercise"]
-    prod_score += 10 if data["study"] >= 0.6 else 10 * data["study"]
-    
-    return prod_score
-    
 # verdict
 def verdict(data):
     verdict = ""
@@ -56,12 +44,6 @@ def get_tasks():
         tasks[task] = done
     return tasks
 
-def save_to_json(data, path):
-    import os
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w") as file:
-        json.dump(data, file, indent=4)
-
 
 # Call your functions here to keep main clean
 data = {}
@@ -75,5 +57,5 @@ data[name]["score"] = scoring(name_data)
 data[name]["final_verdict"] = verdict(name_data)
 printer(name_data, name)
 
-save_to_json(data, "shadow_self_os/logs/day_05.json")
+save_json(data, "logs/day_05.json")
 print("Saved to: day_05.json")

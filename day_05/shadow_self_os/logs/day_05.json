@@ -1,14 +1,14 @@
 {
     "Santhosh": {
-        "sleep": 8,
+        "sleep": 7,
         "coding": 2.0,
-        "exercise": 0.5,
-        "study": 0.3333333333333333,
+        "exercise": 0.0,
+        "study": 0.5,
         "tasks": {
-            "Meditaion": "Y",
-            "Riding": "Y"
+            "Sleeping": "Y",
+            "Meditation": "N"
         },
-        "score": 93.33333333333333,
+        "score": 75.0,
         "final_verdict": "Less than 30 mins of study is not enough to grow."
     }
 }
