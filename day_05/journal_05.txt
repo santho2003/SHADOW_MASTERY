@@ -1,0 +1,9 @@
+What did I build today that felt “real”?
+What part of the system challenged me most?
+Did I modularize properly or write spaghetti?
+Would I be proud to show this to a hiring manager?
+
+1. I built a daily tracker system where its functions felt like in real app
+2. The most challenging part was the nested dictionaries creation and accessing it
+3. Well not mostly i have modularized the code but not like spaghetti
+4. No if i just modularized the code then i would have been proud
