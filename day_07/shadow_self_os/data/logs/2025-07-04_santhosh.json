@@ -1,0 +1,14 @@
+{
+    "Santhosh": {
+        "sleep": 5,
+        "coding": 0.0,
+        "exercise": 0.005555555555555555,
+        "study": 0.01388888888888889,
+        "tasks": {
+            "Driving": "Y",
+            "Household": "Y"
+        },
+        "score": 50.25,
+        "final_verdict": "Need more sleep to recover.Still have to power to solve more.Less than 30 mins of study is not enough to grow."
+    }
+}

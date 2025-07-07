@@ -1,0 +1,13 @@
+{
+    "Santhosh": {
+        "sleep": 4,
+        "coding": 3.0,
+        "exercise": 0.008333333333333333,
+        "study": 0.008333333333333333,
+        "tasks": {
+            "Meditation": "Y"
+        },
+        "score": 50.25,
+        "final_verdict": "Need more sleep to recover.Less than 30 mins of study is not enough to grow."
+    }
+}

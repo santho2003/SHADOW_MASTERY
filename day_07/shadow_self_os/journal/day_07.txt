@@ -1,0 +1,7 @@
+What did organizing the project teach me?
+How did it change the way I think about code?
+What would it take to make this a real product for public use?
+
+1. Organizing makes to understand things better and the flow of working
+2. It changed my way of thinking to write function, utils separtely so that they can modified easily
+3. It would take real efforts for developers and also customized for public.
